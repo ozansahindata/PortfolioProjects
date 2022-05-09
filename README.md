@@ -1,5 +1,8 @@
 # PortfolioProjects
 My Personal SQL and Python data analysis projects with different datasets.
 
-# Covid Dataset Exploration 
-Analysing covid data using Microsoft SQL Server Management Studio 18
+# Covid Dataset Exploration (SQL)
+Analysing covid data (downloaded from https://ourworldindata.org) using Microsoft SQL Server Management Studio 18
+# Energy Production Using Fossil Fuels between 1985-2021 Dataset Exploration (SQL)
+Analysing energy production data (downloaded from https://ourworldindata.org/) using Microsoft SQL Server Management Studio 18
+Understanding the power production between 1985-2021 globally and determining  Which Countries are the top in using fossil fuels. 
