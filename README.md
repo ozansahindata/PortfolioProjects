@@ -1,5 +1,5 @@
 # PortfolioProjects
-My Personal SQL and Python data analysis projects with different datasets. For visualization purposes, I prefer powerBI on Tablaeu.
+My Personal SQL and Python data analysis projects with different datasets. For visualization purposes, I prefer powerBI on Tablaeu. I also like to use Plotly in notebooks.
 
 # Covid Dataset Exploration (SQL)
 Analysing covid data (downloaded from https://ourworldindata.org) using Microsoft SQL Server Management Studio 18
